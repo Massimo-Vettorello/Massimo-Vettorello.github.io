@@ -1,0 +1,23 @@
+body{
+  background-color: black;
+  color : white;
+}
+
+h1{
+	margin: auto;
+	text-align: center;
+	padding : 50px;
+	letter-spacing: 3px;
+}
+
+p{
+  border: 4px dashed purple;
+  border-radius: 20px;
+  box-shadow: 5px 2px purple dashed;
+  width : 500px;
+  margin: auto;
+  padding: 50px;	
+  text-indent: 50px;
+  text-align: justify;
+  letter-spacing: 3px;
+}
